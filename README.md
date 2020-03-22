@@ -9,7 +9,6 @@
 <p>Wir danken herzlich f&uuml;r Ihr Verst&auml;dnis. Bei Problemen und Fragen sind wir gerne f&uuml;r Sie da!</p>
 <p>Viel Spa&szlig; im Internet w&uuml;nscht die Familie Greuter.
                                              <hr size="5" noshade>
-<h2><b>Ihr Ger&auml;t wurde erfolgreich im WLAN-Netz angemeldet</b><h/h2>
+<h2><b>Ihr Ger&auml;t wurde erfolgreich im WLAN-Netz angemeldet</b>
 <p>Alle Infos zum Coronavirus gibts 
-<a href=
 <a href="https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html">hier</a>
