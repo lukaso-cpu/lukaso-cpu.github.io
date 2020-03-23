@@ -13,12 +13,19 @@
  <p>Alle <b>Infos</b> zum <b>Coronavirus (Covid-19)</b> gibts 
 <a href="https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html">hier</a>
  <form method="get" action="http://goggle.at" target="_blank">
-         <input type="submit" value="Googel neuer Tab"> 
-</form>
+        
      
 <a href="http://google.at">
            <button> Hier können Sie eine Googlesuche starten</button>
 </a>
 
-<img src=“https://www.google.de/imgres?imgurl=https%3A%2F%2Fpraxistipps-images.chip.de%2FFb5BEMuaglcCQS7HRcOrV2Toy_s%3D%2F0x0%2Ffilters%3Aformat(jpeg)%3Afill(000%2Ctrue)%3Ano_upscale()%2Fpraxistipps.s3.amazonaws.com%252Fvor-und-nachteile-wlan-wifi_b749aa91.jpg&imgrefurl=https%3A%2F%2Fpraxistipps.chip.de%2Fwas-ist-wifi-wlan-einfach-erklaert_41212&tbnid=2SkoEHBCvXI9CM&vet=12ahUKEwjYzLLX2rDoAhWL_4UKHXLBC4IQMygAegUIARCOAg..i&docid=chrHdYwBjey1gM&w=800&h=474&q=wlan&ved=2ahUKEwjYzLLX2rDoAhWL_4UKHXLBC4IQMygAegUIARCOAg“>
-
+<!--
+Kostenlose, frei konfigurierbare Homepage-Uhr von www.schnelle-online.info/Homepage/Tools.html. Ohne Gewähr, ohne Haftung.
+Nutzungbedingung: Dieser Kommentar und der Link unten dürfen nicht entfernt oder (nofollow) modifiziert werden.
+-->
+<a style="text-decoration:none;border-style:none;color:black;" target="_blank" href="https://www.schnelle-online.info/Atomuhr-Uhrzeit.html" id="soitime319992161469">Atomzeit</a><br/><a style="text-decoration:none;border-style:none;color:black;" target="_blank" href="https://www.schnelle-online.info/Kalender.html" id="soidate319992161469">Kalender</a>
+<script type="text/javascript">
+SOI = (typeof(SOI) != 'undefined') ? SOI : {};(SOI.ac21fs = SOI.ac21fs || []).push(function() {
+(new SOI.DateTimeService("319992161469", "DE")).start();});
+(function() {if (typeof(SOI.scrAc21) == "undefined") { SOI.scrAc21=document.createElement('script');SOI.scrAc21.type='text/javascript'; SOI.scrAc21.async=true;SOI.scrAc21.src=((document.location.protocol == 'https:') ? 'https://' : 'http://') + 'homepage-tools.schnelle-online.info/Homepage/atomicclock2_1.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(SOI.scrAc21, s);}})();
+</script>
