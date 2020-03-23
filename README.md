@@ -18,11 +18,9 @@
 <a href="http://google.at">
            <button> Hier können Sie die Googlesuche starten</button>
 </a>
-
-
+<hr>
 
 <a id="1981245925" href="http://www.uhr-homepage.de">uhr-homepage.de</a><script src="https://www.uhr-homepage.de/data.php?i=1981245925&h=104&w=217" type="text/javascript"></script>
-
 
   <div id="inhalte">
    Diese Website ist ein Service der Familie Greuter. Betreuung durch Lukas Greuter
