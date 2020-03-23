@@ -15,7 +15,7 @@
  <form method="get" action="http://goggle.at" target="_blank">
         
      
-<a href="http://google.at">
+<a href="https://www.google.at">
            <button> Hier können Sie die Googlesuche starten</button>
 </a>
 <hr>
