@@ -12,3 +12,4 @@
  <hr>
  <p>Alle <b>Infos</b> zum <b>Coronavirus (Covid-19)</b> gibts 
 <a href="https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html">hier</a>
+  <button onclick="myFunction(https://www.google.at)">Hier können Sie Ihre Googlesuche starten</button>
