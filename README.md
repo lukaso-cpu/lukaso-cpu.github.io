@@ -19,10 +19,8 @@
            <button> Hier können Sie eine Googlesuche starten</button>
 </a>
 
-<!--
+<p>
 
-
-<br />
 
 Kostenlose, frei konfigurierbare Homepage-Uhr von www.schnelle-online.info/Homepage/Tools.html. Ohne Gewähr, ohne Haftung.
 Nutzungbedingung: Dieser Kommentar und der Link unten dürfen nicht entfernt oder (nofollow) modifiziert werden.
@@ -32,4 +30,4 @@ Nutzungbedingung: Dieser Kommentar und der Link unten dürfen nicht entfernt ode
 SOI = (typeof(SOI) != 'undefined') ? SOI : {};(SOI.ac21fs = SOI.ac21fs || []).push(function() {
 (new SOI.DateTimeService("319992161469", "DE")).start();});
 (function() {if (typeof(SOI.scrAc21) == "undefined") { SOI.scrAc21=document.createElement('script');SOI.scrAc21.type='text/javascript'; SOI.scrAc21.async=true;SOI.scrAc21.src=((document.location.protocol == 'https:') ? 'https://' : 'http://') + 'homepage-tools.schnelle-online.info/Homepage/atomicclock2_1.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(SOI.scrAc21, s);}})();
-</script>
+</script>   </p>
