@@ -16,7 +16,7 @@
         
      
 <a href="http://google.at">
-           <button> Hier können Sie eine Googlesuche starten</button>
+           <button> Hier können Sie die Googlesuche starten</button>
 </a>
 
 <p>
