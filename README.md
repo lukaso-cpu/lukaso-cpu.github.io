@@ -19,15 +19,6 @@
            <button> Hier können Sie die Googlesuche starten</button>
 </a>
 
-<p>
 
 
-Kostenlose, frei konfigurierbare Homepage-Uhr von www.schnelle-online.info/Homepage/Tools.html. Ohne Gewähr, ohne Haftung.
-Nutzungbedingung: Dieser Kommentar und der Link unten dürfen nicht entfernt oder (nofollow) modifiziert werden.
--->
-<a style="text-decoration:none;border-style:none;color:black;" target="_blank" href="https://www.schnelle-online.info/Atomuhr-Uhrzeit.html" id="soitime319992161469">Atomzeit</a><br/><a style="text-decoration:none;border-style:none;color:black;" target="_blank" href="https://www.schnelle-online.info/Kalender.html" id="soidate319992161469">Kalender</a>
-<script type="text/javascript">
-SOI = (typeof(SOI) != 'undefined') ? SOI : {};(SOI.ac21fs = SOI.ac21fs || []).push(function() {
-(new SOI.DateTimeService("319992161469", "DE")).start();});
-(function() {if (typeof(SOI.scrAc21) == "undefined") { SOI.scrAc21=document.createElement('script');SOI.scrAc21.type='text/javascript'; SOI.scrAc21.async=true;SOI.scrAc21.src=((document.location.protocol == 'https:') ? 'https://' : 'http://') + 'homepage-tools.schnelle-online.info/Homepage/atomicclock2_1.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(SOI.scrAc21, s);}})();
-</script>   </p>
+<a id="1981245925" href="http://www.uhr-homepage.de">uhr-homepage.de</a><script src="https://www.uhr-homepage.de/data.php?i=1981245925&h=104&w=217" type="text/javascript"></script>
