@@ -3,7 +3,7 @@
 <head>
 <meta name="author" content="lukas">
 <meta name="editor" content="html-editor phase 5"> <form>
-<input type="button" value="Fenster schließen" onClick="window.close()" />
+<input type="submit" value="Schliessen" onclick="javascript:window.close()">
 </form>
 <body text="#000000" bgcolor="#FFFFFF" link="#FF0000" alink="#FF0000" vlink="#FF0000">
 <h1>Herzlich Willkommen im Greuter G&auml;stewlan</h1>
