@@ -25,4 +25,4 @@
   <p> Diese Website ist ein Service der Familie Greuter. Betreuung durch Lukas Greuter.</p>
   </div>
 
-  
+  <a href="javascript:close_window();">Fenster schliessen</a>
