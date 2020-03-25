@@ -3,7 +3,14 @@
 <head>
 <meta name="author" content="lukas">
 <meta name="editor" content="html-editor phase 5"> <form>
-
+<input type="button" value="Close this window" onclick="self.close()">
+ <script language="javascript" type="text/javascript">
+function windowClose() {
+window.open('','_parent','');
+window.close();
+}
+</script>
+ <input type="button" value="Close this window" onclick="windowClose();">
 
 <body text="#000000" bgcolor="#FFFFFF" link="#FF0000" alink="#FF0000" vlink="#FF0000">
 <h1>Herzlich Willkommen im Greuter G&auml;stewlan</h1>
