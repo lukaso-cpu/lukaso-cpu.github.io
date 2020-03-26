@@ -5,32 +5,6 @@
 <meta name="editor" content="html-editor phase 5"> <form>
 <a href="popup-beispiel.html" target="popup-beispiel" onClick="javascript:open('', 'popup-beispiel', 'height=400,width=400,resizable=no')">
 
-<nav>
-  <ul>
-    <li><a href="#">Seite 1</a></li>
-
-    <li><a href="#">Seite 2</a>
-      <ul>
-        <li><a href="#">Seite 2a</a></li>
-        <li><a href="#">Seite 2b</a></li>
-      </ul>
-    </li>
-
-    <li aria-current="page"><a href="#">aktuelle Seite</a></li>
-
-    <li><a href="#">Seite 4</a>
-      <ul>
-        <li><a href="#">Seite 4a</a></li>
-        <li><a href="#">Seite 4b</a></li>
-        <li><a href="#">Seite 4c</a></li>
-      </ul>
-    </li>
-
-    <li><a href="#">Seite 5</a></li>
-    <li><a href="#">Seite 6</a></li>
-  </ul>
-</nav>
-
 <body text="#000000" bgcolor="#FFFFFF" link="#FF0000" alink="#FF0000" vlink="#FF0000">
 <h1>Herzlich Willkommen im Greuter G&auml;stewlan</h1>
  <p>Bitte <b>downloaden</b> Sie keine <b>gro&szlig;en</b> <b>Dateien</b>. Dies k&ouml;nnte die <b>Qualit&auml;t</b> des Internets <b> massiv beeintr&auml;chtigen </b> und somit andere WLAN-Nutzer bei ihrer Arbeit st&ouml;ren. Nun wollen wir keine weitere Zeit von Ihnen in Anspruch nehmen.</p>
@@ -44,5 +18,5 @@
        
 <a id="797102992" href="http://www.uhr-homepage.de">http://www.uhr-homepage.de</a><script src="https://www.uhr-homepage.de/data.php?i=797102992&h=104&w=160" type="text/javascript"></script>
   <div id="inhalte">
-  <p> Diese Webseite ist ein Service der Familie Greuter.>Die Betreuung erfolgt durch Lukas Greuter.</p>
+  <p> Diese Webseite ist ein Service der Familie Greuter.Die Betreuung erfolgt durch Lukas Greuter.</p>
   </div>
