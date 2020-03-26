@@ -22,6 +22,3 @@
   <div id="inhalte">
   <p> Diese Webseite ist ein Service der Familie Greuter.>Die Betreuung erfolgt durch Lukas Greuter.</p>
   </div>
-<a href="" onClick="JavaScript:self.close()">Dieses Fenster schließen</a>
-<form> <input type=button value="Möchten Sie dieses Fenster schließen?" onClick="JavaScript:self.close()"> </form>
-
