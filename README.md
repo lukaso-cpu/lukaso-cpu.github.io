@@ -3,7 +3,7 @@
 <head>
 <meta name="author" content="lukas">
 <meta name="editor" content="html-editor phase 5"> <form>
-
+<a href="popup-beispiel.html" target="popup-beispiel" onClick="javascript:open('', 'popup-beispiel', 'height=400,width=400,resizable=no')">
 
 
 
