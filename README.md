@@ -5,7 +5,31 @@
 <meta name="editor" content="html-editor phase 5"> <form>
 <a href="popup-beispiel.html" target="popup-beispiel" onClick="javascript:open('', 'popup-beispiel', 'height=400,width=400,resizable=no')">
 
+<nav>
+  <ul>
+    <li><a href="#">Seite 1</a></li>
 
+    <li><a href="#">Seite 2</a>
+      <ul>
+        <li><a href="#">Seite 2a</a></li>
+        <li><a href="#">Seite 2b</a></li>
+      </ul>
+    </li>
+
+    <li aria-current="page"><a href="#">aktuelle Seite</a></li>
+
+    <li><a href="#">Seite 4</a>
+      <ul>
+        <li><a href="#">Seite 4a</a></li>
+        <li><a href="#">Seite 4b</a></li>
+        <li><a href="#">Seite 4c</a></li>
+      </ul>
+    </li>
+
+    <li><a href="#">Seite 5</a></li>
+    <li><a href="#">Seite 6</a></li>
+  </ul>
+</nav>
 
 <body text="#000000" bgcolor="#FFFFFF" link="#FF0000" alink="#FF0000" vlink="#FF0000">
 <h1>Herzlich Willkommen im Greuter G&auml;stewlan</h1>
