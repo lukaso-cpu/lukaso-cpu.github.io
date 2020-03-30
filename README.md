@@ -10,7 +10,7 @@
 <p>Viel Spa&szlig; im Internet w&uuml;nscht die Familie Greuter.
 <b>Ihr Ger&auml;t wurde erfolgreich im WLAN-Netz angemeldet.</b>
  <hr>
- <p>Alle <b>Infos</b> zum <b>Coronavirus (Covid-19)</b> gibts 
+ <p>Alle <b>aktuellen Informationen bzw. Zahlen</b> zum <b>Coronavirus (Covid-19)</b> gibts 
 <a href="https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html">hier</a>
  <form method="get" action="http://goggle.at" target="_blank">
        
