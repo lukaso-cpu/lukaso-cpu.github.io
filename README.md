@@ -12,7 +12,7 @@
  <hr>
  <p>Alle <b>aktuellen Informationen bzw. Zahlen</b> zum <b>Coronavirus (Covid-19)</b> gibts 
 <a href="https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html">hier</a>
- <form method="get" action="http://goggle.at" target="_blank">
+ <form method="get" action="http://goggle.at" target="_blank">.
        
 <a id="797102992" href="http://www.uhr-homepage.de">http://www.uhr-homepage.de</a><script src="https://www.uhr-homepage.de/data.php?i=797102992&h=104&w=160" type="text/javascript"></script>
   <div id="inhalte">
