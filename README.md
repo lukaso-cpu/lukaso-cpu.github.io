@@ -15,31 +15,7 @@
  <form method="get" action="http://goggle.at" target="_blank">
        <a id="1971072200" href="http://www.uhr-homepage.de">uhr-homepage.de</a><script src="https://www.uhr-homepage.de/data.php?i=1971072200&h=35&w=60" type="text/javascript"></script>
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <p> Diese Webseite ist ein Service der Familie Greuter. Die Betreuung erfolgt durch Lukas Greuter.</p>
+  <hr>
+<p> Diese Webseite ist ein Service der Familie Greuter. Die Betreuung erfolgt durch Lukas Greuter.</p>
  <p> 
 
