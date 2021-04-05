@@ -1,1 +1,1 @@
-<p> error <p/>
+<p> Servus, Website außer Betrieb <p/>
