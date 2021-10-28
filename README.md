@@ -23,25 +23,19 @@
  
     <article>
         <h2>Aktuelle Infektionszahlen für Österreich</h2>
-        <p>Hier finden Sie die aktuellsten Infektionszahlen für Österreich
+                                             <p>Hier finden Sie die aktuellsten Infektionszahlen für Österreich </p>
                                              <a href="https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html" target="_blank">Gesundheitsministerium für Österreich</a></p>
     </article>
      
     <article>
-        <h2>Beitrag 3</h2>
-        <p>...</p>
+        <h2Wetterbericht Tirol</h2>
+        <p> Hier finden Sie den aktuellen Wetterbericht</p>
+        <a href="https://www.bergfex.at/tirol/wetter/prognose/ target="_blank">Bergfex Wetter Tirol</a>
     </article>
      
-    <section>
-        <h2>Kommentare</h2>                
-        <p>...</p>
-        <p>...</p>
-        <p>...</p>
-    </section>
-</main>
  
 <footer>
-    <i>Copyright 2016 by Homepage-Webhilfe</i>
+    <i>Copyright 2021 by Greuter</i>
 </footer>
   
 <form>
