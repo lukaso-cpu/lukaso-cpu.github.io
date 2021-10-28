@@ -18,12 +18,13 @@
     <article>
         <h2>Aktuelles aus Tirol und der Welt </h2>
         <p>Hier finden Sie die aktuellsten News aus Tirol und der Welt
-          <a href="www.tt.com target="_blank">)Tiroler Tageszeitung </a>
+          <a href="www.tt.com" target=_blank">)Tiroler Tageszeitung </a>
     </article>
  
     <article>
-        <h2>Beitrag 2</h2>
-        <p>...</p>
+        <h2>Aktuelle Infektionszahlen für Österreich</h2>
+        <p>Hier finden Sie die aktuellsten Infektionszahlen für Österreich
+                                             <a href="https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html" target="_blank">Gesundheitsministerium für Österreich</a></p>
     </article>
      
     <article>
