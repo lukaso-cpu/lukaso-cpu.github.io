@@ -28,7 +28,7 @@
     <article>
         <h2> Wetterbericht Tirol </h2>
         <p> Hier finden Sie den aktuellen Wetterbericht</p>
-     <a href="https://www.bergfex.at/tirol/wetter/prognose/" target="_blank">Bergfex Wetter Tirol</a></p>
+     <a href="https://www.bergfex.at/tirol/wetter/prognose/" target="_blank">Bergfex Wetter Tirol</a> </p>
     </article>
      
  
