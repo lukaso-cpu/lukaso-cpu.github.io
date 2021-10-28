@@ -1,9 +1,9 @@
 <h1> Willkommen im Greuter-Gästewlan </h1>
 
   <form>
-    Vorname: <input type="text" name="Benutzer-ID" value="3545852156qq77452" disabled="disabled" />
+  Benutzer-ID: <input type="text" name="Benutzer-ID" value="3545852156qq77452" disabled="disabled" />
     <br />
-    Nachname: <input type="text" name="Passwort" value="Dadugastbistkriegstduauchwlan1502" readonly="readonly" />
+    Passwort: <input type="text" name="Passwort" value="Dadugastbistkriegstduauchwlan1502" readonly="readonly" />
     <br />
      
      
