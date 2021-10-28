@@ -33,12 +33,13 @@
      
  
 
- body{
-	background-image:https://pixabay.com/photos/fog-mountains-romania-landscape-6723665/(bildname.png);
-	background-repeat:no-repeat;
-	background-position: 20px 40px;
- 
- 
+ body {
+      background-color: #1c87c9;
+      }
+    </style>
+  </head>
+  <body></body>
+</html>
 
 
 
