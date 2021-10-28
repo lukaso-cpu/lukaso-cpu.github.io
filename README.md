@@ -4,17 +4,11 @@
     <h1>Homepage-Webhilfe</h1>
 </header>
  
-<nav>
-    <ul>
-        <li><a href="https://lukaso-cpu.github.io/">Startseite</a></li>
-        <li><a href="https://lukaso-cpu.github.io//HTML/">HTML</a></li>
-        <li><a href="https://lukaso-cpu.github.io//CSS/">CSS</a></li>
-        <li><a href="https://lukaso-cpu.github.io//PHP/">PHP</a></li>
-    </ul>
+
 </nav>
  
 <main>
-    <p>...</p>
+   
      
     <aside>
         <h3>Wussten Sie schon?</h3>
@@ -22,8 +16,9 @@
     </aside>
      
     <article>
-        <h2>Beitrag 1</h2>
-        <p>...</p>
+        <h2>Aktuelles aus Tirol und der Welt </h2>
+        <p>Hier finden Sie die aktuellsten News aus Tirol und der Welt
+          <a href="www.tt.com target="_blank">)Tiroler Tageszeitung </a>
     </article>
  
     <article>
