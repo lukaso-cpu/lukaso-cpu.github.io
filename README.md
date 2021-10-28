@@ -9,7 +9,6 @@
      
     Geburtsjahr: <input type="number" name="Geburtsjahr" value="2000" min="1900" max="2021" />
 </form>
-</form>
 
 
 <p> Ihre Anmeldung war erfolgreich.
@@ -30,7 +29,7 @@
     <article>
         <h2> Wetterbericht Tirol </h2>
         <p> Hier finden Sie den aktuellen Wetterbericht</p>
-        <a> href="https://www.bergfex.at/tirol/wetter/prognose/ target="_blank">Bergfex Wetter Tirol</a>
+        <a href="https://www.bergfex.at/tirol/wetter/prognose/ target="_blank">Bergfex Wetter Tirol</a>
     </article>
      
  
@@ -44,7 +43,7 @@
 
 
 
-<p> <a href="mailto:lukasflorian.greuter@gmail.com">Bei Fragen/Wünsche/Anregungen oder kontaktieren Sie uns gerne via Mail</a>
+<p> <a href="mailto:lukasflorian.greuter@gmail.com">Bei Fragen/Wünsche/Anregungen oder kontaktieren Sie uns gerne via Mail</a> </p>
   
   
 <footer>
