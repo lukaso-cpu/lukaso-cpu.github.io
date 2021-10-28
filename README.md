@@ -7,7 +7,6 @@
     <br />
      
      
-    Geburtsjahr: <input type="number" name="Geburtsjahr" value="2000" min="1900" max="2021" />
 </form>
 
 
