@@ -1,16 +1,19 @@
 <h1> Willkommen im Greuter-Gästewlan </h1>
 
- 
-
-
- 
-<main>
-   
+  <form>
+    Vorname: <input type="text" name="Benutzer-ID" value="3545852156qq77452" disabled="disabled" />
+    <br />
+    Nachname: <input type="text" name="Passwort" value="Dadugastbistkriegstduauchwlan1502" readonly="readonly" />
+    <br />
      
-    <aside>
-        <h3>Wussten Sie schon?</h3>
-        <p>...</p>
-    </aside>
+     
+    Geburtsjahr: <input type="number" name="Geburtsjahr" value="2000" min="1900" max="2021" />
+</form>
+</form>
+
+
+<p> Ihre Anmeldung war erfolgreich.
+
      
     <article>
         <h2>Aktuelles aus Tirol und der Welt </h2>
@@ -35,22 +38,6 @@
  
  
  
-
-  
-    <form>
-    Vorname: <input type="text" name="Benutzer-ID" value="3545852156qq77452" disabled="disabled" />
-    <br />
-    Nachname: <input type="text" name="Passwort" value="Dadugastbistkriegstduauchwlan1502" readonly="readonly" />
-    <br />
-     
-     
-    Geburtsjahr: <input type="number" name="Geburtsjahr" value="2000" min="1900" max="2021" />
-</form>
-</form>
-
-
-<p> Ihre Anmeldung war erfolgreich.
-
 
 
 
