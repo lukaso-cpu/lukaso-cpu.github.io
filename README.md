@@ -7,9 +7,10 @@
     <br />
     Passwort: <input type="password" name="Passwort" maxlength="30" />
   <form>
-    Geburtsjahr: <input type="number" name="Geburtsjahr" value="2000" min="1900" max="2100" />
+    Geburtsjahr: <input type="number" name="Geburtsjahr" value="2000" min="1900" max="2021" />
 </form>
 </form>
+<a href="Javascript:top.close()">...</a>
 
 <p> Ihre Anmeldung war erfolgreich.
 
