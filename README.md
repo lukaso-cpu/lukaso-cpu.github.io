@@ -1,11 +1,8 @@
 <h1> Willkommen im Greuter-Gästewlan </h1>
-  <header>
-    <img src="/Bilder/Logo/Logo.jpg" alt="Logo" title="Homepage-Webhilfe" width="100" />
-    <h1>Homepage-Webhilfe</h1>
-</header>
+
  
 
-</nav>
+
  
 <main>
    
@@ -18,7 +15,7 @@
     <article>
         <h2>Aktuelles aus Tirol und der Welt </h2>
         <p>Hier finden Sie die aktuellsten News aus Tirol und der Welt
-          <a href="www.tt.com" target=_blank">)Tiroler Tageszeitung </a>
+         <a href="https://www.tt.com/" target="_blank">Tiroler Tageszeitung</a>
     </article>
  
     <article>
@@ -28,7 +25,7 @@
     </article>
      
     <article>
-        <h2Wetterbericht Tirol</h2>
+        <h2> Wetterbericht Tirol </h2>
         <p> Hier finden Sie den aktuellen Wetterbericht</p>
         <a href="https://www.bergfex.at/tirol/wetter/prognose/ target="_blank">Bergfex Wetter Tirol</a>
     </article>
