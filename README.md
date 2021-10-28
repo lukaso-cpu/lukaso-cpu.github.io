@@ -10,7 +10,7 @@
     Geburtsjahr: <input type="number" name="Geburtsjahr" value="2000" min="1900" max="2021" />
 </form>
 </form>
-<a href="Javascript:top.close()">...</a>
+
 
 <p> Ihre Anmeldung war erfolgreich.
 
@@ -21,4 +21,9 @@
 
 
 <p> <a href="mailto:lukasflorian.greuter@gmail.com">Bei Fragen/Wünsche/Anregungen oder kontaktieren Sie uns gerne via Mail</a>
+  
+  
+  <form>
+<input type="button" value="Fenster schließen" onClick="window.close()" />
+</form>
  
