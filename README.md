@@ -3,7 +3,7 @@
   <form>
   Benutzer-ID: <input type="text" name="Benutzer-ID" value="3545852156qq77452" disabled="disabled" />
     <br />
-    Passwort: <input type="text" name="Passwort" value="Dadugastbistkriegstduauchwlan1502" readonly="readonly" />
+    Passwort: <input type="text" name="Passwort" value="******************************" readonly="readonly" />
     <br />
      
      
